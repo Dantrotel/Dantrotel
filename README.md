@@ -1,11 +1,14 @@
 # Hola, soy Daniel 👋
 
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-2ea44f?style=for-the-badge&logo=github&logoColor=white)
+
 ## Sobre mí
 
 * 🎓 Recién egresado de **Ingeniería de Ejecución en Computación e Informática** en la **UBB**.
-* 📍 Basado en **Concepción, Chile**.
-* 🚀 Enfocado en el desarrollo **Full-Stack** y aplicaciones móviles.
-* 🛠️ Me apasiona crear código limpio y soluciones que resuelvan problemas reales.
+* 📍 Basado en **Concepción, Chile** · Abierto a trabajo remoto internacional.
+* 💻 Desarrollador **Full-Stack** con experiencia en web y mobile, orientado a construir productos que funcionen de verdad.
+* 🤖 Con creciente interés en **Inteligencia Artificial y Data** como próximo paso profesional.
+* 🛠️ Busco mi primer rol en una empresa donde pueda aportar, aprender rápido y crecer junto al equipo.
 
 ---
 
@@ -13,17 +16,22 @@
 
 ### Lenguajes
 
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 ### Frontend
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![SCSS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
 ### Mobile
 
@@ -67,7 +75,6 @@
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
         <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
       </p>
-      <a href="https://github.com/Dantrotel/actitubb">Ver repositorio →</a>
     </td>
     <td width="50%" valign="top">
       <h3>🏡 App de Propiedades</h3>
@@ -88,6 +95,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dantrotel&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dantrotel&layout=compact&theme=dark&hide_border=true" alt="Top Langs" height="160"/>
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Dantrotel&theme=dark&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
