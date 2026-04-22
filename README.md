@@ -5,7 +5,6 @@
 ## Sobre mí
 
 * 🎓 Recién egresado de **Ingeniería de Ejecución en Computación e Informática** en la **UBB**.
-* 📍 Basado en **Concepción, Chile** · Abierto a trabajo remoto internacional.
 * 💻 Desarrollador **Full-Stack** con experiencia en web y mobile, orientado a construir productos que funcionen de verdad.
 * 🤖 Con creciente interés en **Inteligencia Artificial y Data** como próximo paso profesional.
 * 🛠️ Busco mi primer rol en una empresa donde pueda aportar, aprender rápido y crecer junto al equipo.
@@ -15,22 +14,14 @@
 ## 🧠 Stack Tecnológico
 
 ### Lenguajes
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 ### Frontend
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 ### Mobile
@@ -107,7 +98,7 @@
 > **Abierto a oportunidades laborales y proyectos freelance.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-dantrottel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dantrottel)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TU_EMAIL@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dantrottel@gmail.com)
 
 ---
 
