@@ -1,6 +1,6 @@
 <div align="center">
 
-# Daniel Trottel
+# Daniel Agauyo
 
 ### Ingeniero de Ejecución en Computación e Informática
 #### Universidad del Bío-Bío · Concepción, Chile · 2025
