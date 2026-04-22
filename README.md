@@ -101,7 +101,3 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dantrottel@gmail.com)
 
 ---
-
-<div align="center">
-  <i>"El código bien escrito es la mejor documentación."</i>
-</div>
